@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #e83e8c;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9669,7 +9669,7 @@ button.bg-dark:focus {
   z-index: 1;
   pointer-events: auto;
   content: "";
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0.5, 0.5, 0.5, 0);
 }
 
 .text-monospace {
@@ -9799,11 +9799,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #dc3545 !important;   /// col rojo  ////////////////////////////////////////////////////////////////////7
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color:#dc3545 !important;
 }
 
 .text-secondary {
