@@ -9799,15 +9799,15 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #dc3545 !important;   /// col rojo  ////////////////////////////////////////////////////////////////////7
+  color: #17a2b8!important;   /// col rojo  ////////////////////////////////////////////////////////////////////7
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color:#dc3545 !important;
+  color:#17a2b8 !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: #17a2b8 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9815,11 +9815,11 @@ a.text-secondary:hover, a.text-secondary:focus {
 }
 
 .text-success {
-  color: #28a745 !important;
+  color: #17a2b8 !important;
 }
 
 a.text-success:hover, a.text-success:focus {
-  color: #19692c !important;
+  color: #17a2b8 !important;
 }
 
 .text-info {
